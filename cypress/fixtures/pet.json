@@ -1,0 +1,16 @@
+{
+  "id": 602740501,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Doodle",
+  "photoUrls": [],
+  "tags": [
+    {
+      "id": 1,
+      "name": "vaccinated"
+    }
+  ],
+  "status": "available"
+}
